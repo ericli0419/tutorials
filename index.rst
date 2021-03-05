@@ -1,0 +1,9 @@
+.. include:: README.rst
+
+
+.. toctree::
+   :maxdepth: 1
+
+   integrating-data-using-ingest
+   
+..   
