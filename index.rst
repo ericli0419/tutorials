@@ -4,6 +4,7 @@
 .. toctree::
    :maxdepth: 1
 
-   Integrating data using SCALE v2
+   Integrating PBMC data using SCALE v2
+   Integrating pancreas data using SCALE v2
    
 ..   
